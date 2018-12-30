@@ -7,5 +7,7 @@ Using collaborative filtering for customer segmentation. Given a set of users an
 ## Data:
 Gowalla (acquired by Facebook) is a location-based social networking website where users share their locations by checking-in. We have collected a total of 6,442,890 check-ins of these users over the period of Feb. 2009 -Oct. 2010. (See here https://snap.stanford.edu/data/loc-Gowalla.html)
 
+![alt text](/img/sampledata.png)
+
 ## Challenges 
 Unlike traditional recommendation systems like movie ratings, we only have the data of whether a user visited a location or not (i.e binary). We do not have any other information (ex. type, name) about the locations other than a unique identifier of the location.
